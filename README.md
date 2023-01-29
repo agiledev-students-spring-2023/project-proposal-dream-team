@@ -1,4 +1,5 @@
 # Bayt - A shared housing app
+*By Rami Richani*
 
 ### What and why?
 
