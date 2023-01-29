@@ -1,4 +1,4 @@
-# Bayt
+# Bayt - A shared housing app.
 
 ### What and why?
 
