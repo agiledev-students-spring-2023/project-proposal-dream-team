@@ -1,4 +1,4 @@
-### Bayt - An all in one shared housing app
+# Bayt - An all in one shared housing app
 
 ### What and why?
 
